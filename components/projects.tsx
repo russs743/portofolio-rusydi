@@ -219,7 +219,7 @@ export default function Projects() {
                               </a>
                             </Button>
                             <Button variant="outline" asChild>
-                              <a href="#" target="_blank" rel="noopener noreferrer">
+                              <a href="https://github.com/russs743" target="_blank" rel="noopener noreferrer">
                                 <Github className="mr-2 h-4 w-4" />
                                 Source Code
                               </a>
