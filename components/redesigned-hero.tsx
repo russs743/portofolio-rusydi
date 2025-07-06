@@ -61,6 +61,10 @@ export default function RedesignedHero() {
                 <span className="text-primary font-semibold">fullstack developer</span>. Saya juga memiliki minat di
                 bagian desain, khususnya <span className="text-primary font-semibold">UI/UX design</span> untuk web.
               </p>
+              <h2 className="text-xl md:text-2xl lg:text-3xl text-muted-foreground font-medium">
+                Disclaimer, Pembuatan web ini dan beberapa project 
+                <span className="text-primary font-semibold">dibantu oleh ai</span>
+              </h2>
             </motion.div>
 
             {/* Quick Info */}
