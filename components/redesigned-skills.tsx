@@ -15,7 +15,7 @@ const skillsData = {
     skills: [
       { name: "HTML5", level: 75, category: "intermediate" },
       { name: "CSS3", level: 75, category: "intermediate" },
-      { name: "JavaScript", level: 75, category: "intermediate" },
+      { name: "JavaScript", level: 50, category: "intermediate" },
       { name: "React.js", level: 40, category: "beginner" },
       { name: "Next.js", level: 40, category: "beginner" },
     ],
@@ -27,7 +27,7 @@ const skillsData = {
       { name: "Node.js", level: 40, category: "beginner" },
       { name: "Express.js", level: 40, category: "beginner" },
       { name: "PHP", level: 75, category: "intermediate" },
-      { name: "PostgreSQL", level: 75, category: "intermediate" },
+      { name: "PostgreSQL", level: 80, category: "intermediate" },
     ],
   },
   tools: {
@@ -36,7 +36,7 @@ const skillsData = {
     skills: [
       { name: "Figma", level: 90, category: "expert" },
       { name: "VS Code", level: 90, category: "expert" },
-      { name: "Git", level: 75, category: "intermediate" },
+      { name: "Git", level: 60, category: "intermediate" },
       { name: "GitHub", level: 75, category: "intermediate" },
     ],
   },
@@ -45,9 +45,9 @@ const skillsData = {
     icon: MessageSquare,
     skills: [
       { name: "C", level: 90, category: "expert" },
-      { name: "C++", level: 90, category: "expert" },
+      { name: "C++", level: 85, category: "expert" },
       { name: "Python", level: 90, category: "expert" },
-      { name: "JavaScript", level: 75, category: "intermediate" },
+      { name: "JavaScript", level: 50, category: "intermediate" },
     ],
   },
 }
