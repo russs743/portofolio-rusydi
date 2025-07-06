@@ -213,7 +213,7 @@ export default function Projects() {
                         <div className="border-t pt-4">
                           <div className="flex space-x-4">
                             <Button asChild>
-                              <a href="#" target="_blank" rel="noopener noreferrer">
+                              <a href="https://linktr.ee/NamikZ?utm_source=linktree_admin_share" target="_blank" rel="noopener noreferrer">
                                 <ExternalLink className="mr-2 h-4 w-4" />
                                 Live Demo
                               </a>
