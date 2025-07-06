@@ -93,18 +93,18 @@ export default function RedesignedHero() {
               transition={{ duration: 0.5, delay: 0.5 }}
               className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4"
             >
-              <Button size="lg" className="px-8 py-3 text-lg">
+              <Button href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTNqQVRHQmCxffXTlfvXcgClhkFWTsRtDKFZvnPBnhGNfGMkwSBPvSHrWtKQlNcSxKPBrg" size="lg" className="px-8 py-3 text-lg">
                 <Mail className="mr-2 h-5 w-5" />
                 Get In Touch
               </Button>
               <div className="flex gap-3">
                 <Button variant="outline" size="lg" asChild>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/russs743" target="_blank" rel="noopener noreferrer">
                     <Github className="h-5 w-5" />
                   </a>
                 </Button>
                 <Button variant="outline" size="lg" asChild>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/rusydi-balfas-05bb38246/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="h-5 w-5" />
                   </a>
                 </Button>
