@@ -93,7 +93,7 @@ export default function Publications() {
                     </div>
 
                     <div className="pt-4 border-t">
-                      <Button variant="outline" className="gap-2 bg-transparent">
+                      <Button href="https://kfi.ejournal.unri.ac.id/index.php/JKFI/issue/view/789" variant="outline" className="gap-2 bg-transparent">
                         <ExternalLink className="h-4 w-4" />
                         View Publication
                       </Button>
