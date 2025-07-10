@@ -14,7 +14,7 @@ export default function Organizations() {
       period: "06/2024 – 12/2024",
       location: "Bogor",
       description:
-        "Saya dipercaya untuk bertanggung jawab penuh di acara socio techno 2024. Socio Techno adalah acara seminar yang diselenggarakan oleh himalkom ipb.",
+        "saya dipercaya untuk bertanggung jawab penuh di acara socio techno 2024. Socio Techno adalah acara seminar yang diselenggarakan oleh himalkom ipb, tetapi dalam masa kepemimpinan saya, sociotechno sudah berevolusi, karena saya berhasil menggabungkan kinerja 2 divisi yaitu divisi media branding dan juga divisi entrepreneur, acara ini menjadi acara podcast kewirausahaan dan juga desain, bisa dibilang versi upgrade dari sociotechno sebelumnya karna pembawaannya yang fun tetapi tetap edukatif.",
       type: "Leadership",
       organization: "Himalkom IPB",
     },
