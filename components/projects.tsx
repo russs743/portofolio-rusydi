@@ -90,10 +90,28 @@ export default function Projects() {
         "Dark mode support",
       ],
     },
+    {
+      id: 5,
+      title: "Design Fitur Jadwal dan Presensi IPB Mobile",
+      description:
+        "Saya telah membuat dan memberikan ide design fitur baru dari IPB Mobile, fitur yang saya berikan yaitu penandaan status presensi dan juga mendesain ulang jadwal keseluruhan telah menyelesaikan berbagai masalah yang sebelumnya kami dapatkan dari hasil survey mahasiswa IPB",
+      image: "/images/catatan-harian.png",
+      technologies: ["Figma", "Wireframe", "UI", "UX"],
+      category: "UI App",
+      role: "UI/UX Designer",
+      period: "02/2024 - 06/2024",
+      team: "3 person",
+      keyFeatures: [
+        "Transparansi presensi",
+        "Status Presensi berdasarkan warna",
+        "Perubahan Desain Keseluruhan dari Jadwal"
+        "Notifikasi Kelas Baru"
+      ],
+    },
   ]
 
   const [selectedCategory, setSelectedCategory] = useState("All")
-  const categories = ["All", "Web App", "Desktop App", "Mobile"]
+  const categories = ["All", "Web App", "Desktop App", "Mobile", "UI App"]
 
   const filteredProjects =
     selectedCategory === "All" ? projects : projects.filter((project) => project.category === selectedCategory)
