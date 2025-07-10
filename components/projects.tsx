@@ -113,7 +113,7 @@ export default function Projects() {
       title: "Design Fitur Mahasiswa tingkat akhir IPB Mobile",
       description:
         "Saya telah membuat dan memberikan ide design fitur baru dari IPB Mobile, fitur yang saya berikan yaitu Perlengkapan fitur fitur yang diperlukan oleh mahasiswa tingkat akhir seperti bantuan pada skripsi, magang, upskilling dan juga riset",
-      image: "/images/Screenshot 2025-07-10 192615.png",
+      image: "/images/Screenshot 2025-07-10 195037.png",
       technologies: ["Figma", "Wireframe", "UI", "UX"],
       category: "UI App",
       role: "UI/UX Designer",
