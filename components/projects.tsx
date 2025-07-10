@@ -124,6 +124,7 @@ export default function Projects() {
         "List Magang dan penjelasan detail",
         "Bantuan riset dan juga pusat survey riset",
         "Pusat pendaftaran Upskilling",
+      ]
     },
   ]
 
