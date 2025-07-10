@@ -104,8 +104,8 @@ export default function Projects() {
       keyFeatures: [
         "Transparansi presensi",
         "Status Presensi berdasarkan warna",
-        "Perubahan Desain Keseluruhan dari Jadwal"
-        "Notifikasi Kelas Baru"
+        "Perubahan Desain Keseluruhan dari Jadwal",
+        "Notifikasi Kelas Baru",
       ],
     },
   ]
