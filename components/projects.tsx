@@ -108,6 +108,23 @@ export default function Projects() {
         "Notifikasi Kelas Baru",
       ],
     },
+        {
+      id: 6,
+      title: "Design Fitur Mahasiswa tingkat akhir IPB Mobile",
+      description:
+        "Saya telah membuat dan memberikan ide design fitur baru dari IPB Mobile, fitur yang saya berikan yaitu Perlengkapan fitur fitur yang diperlukan oleh mahasiswa tingkat akhir seperti bantuan pada skripsi, magang, upskilling dan juga riset",
+      image: "/images/Screenshot 2025-07-10 192615.png",
+      technologies: ["Figma", "Wireframe", "UI", "UX"],
+      category: "UI App",
+      role: "UI/UX Designer",
+      period: "02/2025 - 06/2025",
+      team: "3 person",
+      keyFeatures: [
+        "Fitur QnA Skripsi",
+        "List Magang dan penjelasan detail",
+        "Bantuan riset dan juga pusat survey riset",
+        "Pusat pendaftaran Upskilling"
+    },
   ]
 
   const [selectedCategory, setSelectedCategory] = useState("All")
