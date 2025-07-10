@@ -95,7 +95,7 @@ export default function Projects() {
       title: "Design Fitur Jadwal dan Presensi IPB Mobile",
       description:
         "Saya telah membuat dan memberikan ide design fitur baru dari IPB Mobile, fitur yang saya berikan yaitu penandaan status presensi dan juga mendesain ulang jadwal keseluruhan telah menyelesaikan berbagai masalah yang sebelumnya kami dapatkan dari hasil survey mahasiswa IPB",
-      image: "/images/catatan-harian.png",
+      image: "/images/Screenshot 2025-07-10 192615.png",
       technologies: ["Figma", "Wireframe", "UI", "UX"],
       category: "UI App",
       role: "UI/UX Designer",
