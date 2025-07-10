@@ -129,7 +129,7 @@ export default function Projects() {
   ]
 
   const [selectedCategory, setSelectedCategory] = useState("All")
-  const categories = ["All", "Web App", "Desktop App", "Mobile", "UI App"]
+  const categories = ["All", "Web App", "Desktop App", "UI App"]
 
   const filteredProjects =
     selectedCategory === "All" ? projects : projects.filter((project) => project.category === selectedCategory)
