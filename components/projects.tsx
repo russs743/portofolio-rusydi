@@ -108,7 +108,7 @@ export default function Projects() {
         "Notifikasi Kelas Baru",
       ],
     },
-        {
+    {
       id: 6,
       title: "Design Fitur Mahasiswa tingkat akhir IPB Mobile",
       description:
@@ -123,7 +123,7 @@ export default function Projects() {
         "Fitur QnA Skripsi",
         "List Magang dan penjelasan detail",
         "Bantuan riset dan juga pusat survey riset",
-        "Pusat pendaftaran Upskilling"
+        "Pusat pendaftaran Upskilling",
     },
   ]
 
