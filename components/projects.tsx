@@ -126,6 +126,24 @@ export default function Projects() {
         "Pusat pendaftaran Upskilling",
       ]
     },
+     {
+      id: 7,
+      title: "SPARRING, Aplikasi Jadwal Olahraga",
+      description:
+        "Saya telah membuat desain aplikasi full dan prototype dari SPARRING. SPARRING adalah aplikasi berbasis mobile yang menyediakan berbagai fitur untuk orang orang yang susah mencari teman olahraga, disana kita bisa mencari event olahraga dari berbagai komunitas dan kita bisa join, selain itu aplikasi ini juga menyediakan beberapa komunitas berdasarkan minat yang sama.",
+      image: "/images/Screenshot 2025-07-17 081331.png",
+      technologies: ["Figma", "Wireframe", "UI", "UX", "Prototype"],
+      category: "UI App",
+      role: "UI/UX Designer",
+      period: "17/07/2025",
+      team: "1 person",
+      keyFeatures: [
+        "List Event Tederkat",
+        "Community berdasarkan minat",
+        "Beginner Friendly",
+        "Room Chat Komunitas",
+      ]
+    },
   ]
 
   const [selectedCategory, setSelectedCategory] = useState("All")
