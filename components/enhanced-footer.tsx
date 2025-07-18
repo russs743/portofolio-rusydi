@@ -136,11 +136,6 @@ export default function EnhancedFooter() {
                     <span>Available for opportunities</span>
                   </li>
                 </ul>
-
-                {/* Add Theme Preview */}
-                <div className="mt-6">
-                  <ThemePreview />
-                </div>
               </motion.div>
             </div>
 
