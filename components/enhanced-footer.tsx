@@ -125,7 +125,7 @@ export default function EnhancedFooter() {
                 <ul className="space-y-3">
                   <li className="flex items-center gap-3 text-muted-foreground">
                     <Mail className="h-4 w-4 text-primary" />
-                    <span>rusydi@example.com</span>
+                    <span>rusydibalfas@gmail.com</span>
                   </li>
                   <li className="flex items-center gap-3 text-muted-foreground">
                     <MapPin className="h-4 w-4 text-primary" />
